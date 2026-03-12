@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Seoyoung Moon
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c9721256-b05d-4495-a595-ec297990e1b3" width="30%" align="left" style="margin-right: 15px;">
+  <img src="https://github.com/user-attachments/assets/c9721256-b05d-4495-a595-ec297990e1b3" width="35%" align="left" style="margin-right: 15px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=urielmun&show_icons=true&theme=radical" width="300">
   <br>
